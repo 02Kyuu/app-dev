@@ -20,5 +20,5 @@ My first repository
 - Gollum's iconic phrase: `My Precious` became a cultural phenomenon.
 
 **Favorite Character:**  
-![Gandalf](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gandalf_the_White.jpg/300px-Gandalf_the_White.jpg)  
+![Gandalf](https://lotr.fandom.com/wiki/Gandalf)  
 *Gandalf the Grey (Later known as Gandalf the White)*
